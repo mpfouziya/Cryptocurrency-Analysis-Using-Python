@@ -6,11 +6,12 @@ A Python program analysing three different cryptocurrencies : Bitcoin, Ether and
 
 ## Technical Aspect
 
-1. Data Collection : Collect the data of last one year from 28/02/2020 - 27/02/2021. You can download the dataset from my github from [here](https://github.com/mpfouziya/Bitcoin-Price-Prediction-Using-LSTM/blob/main/bitcoin_data.csv). 
-2. Preprocess the data
-3. Create a Stacked LSTM
-4. Do prediction for the test data and plot the output. Check the performance metrics.
-5. Predict the future 30 days and plot the output.
+1. Data Collection : Collect the price data of each cryptocoins of last one year from 28/02/2020 - 27/02/2021. You can download the dataset from my github from [here](https://github.com/mpfouziya/Cryptocurrency-Analysis-Using-Python/tree/main/dataset). 
+2. Preprocess the data : As I am doing the analysis on the closing price of each cryptocoins, we need to extract only the closing price of each coins from each dataset and scale it.
+3. Analyse and visualize the price variation of each coins. Following graph shows the price variation.
+ <img width="200" alt="postgreSQL" src="https://user-images.githubusercontent.com/37532698/109411578-907f3380-79bc-11eb-8bd5-b5188a43ee1e.jpg">
+5. Do prediction for the test data and plot the output. Check the performance metrics.
+6. Predict the future 30 days and plot the output.
     
 
 ## Installation
