@@ -1,5 +1,8 @@
 # Cryptocurrency-Analysis-Using-Python
 
+<p align="center">
+<img width="500" alt="postgreSQL" src="https://user-images.githubusercontent.com/37532698/109412174-e1dcf200-79bf-11eb-9df8-548648001d8d.jpg"></p>
+
 ## Overview
 A Python program analysing three different cryptocurrencies : Bitcoin, Ether and Litecoin. Here I had used the last one year data : 27/02/2020 - 27/02/2021
 
