@@ -11,8 +11,15 @@ A Python program analysing three different cryptocurrencies : Bitcoin, Ether and
 3. Analyse and visualize the price variation of each coins. Following graph shows the price variation.
 <p align="center">
 <img width="500" alt="postgreSQL" src="https://user-images.githubusercontent.com/37532698/109411578-907f3380-79bc-11eb-8bd5-b5188a43ee1e.jpg"></p>
-5. Do prediction for the test data and plot the output. Check the performance metrics.
-6. Predict the future 30 days and plot the output.
+4. Find whether there is any correlation for the price variance of each coin. My findings say that the price variation is highly correlated.
+5. Analyse the fluctuations of Daily Simple Returns from each coin.
+ <p align="center">
+<img width="500" alt="postgreSQL" src="https://user-images.githubusercontent.com/37532698/109411791-eb655a80-79bd-11eb-9de9-ad531b2b5f2e.jpg"></p>
+The graph shows that Ether is having obvious high and low spikes wen considering Daily Simple Returns.
+6. Finally find how a dollar investment in each coins ends up (whether it is a loss or profit) after one year.
+<p align="center">
+<img width="500" alt="postgreSQL" src="https://user-images.githubusercontent.com/37532698/109411800-f5875900-79bd-11eb-8a16-6fd013a74dda.jpg"></p>
+The graph shows that from the past one year data investment in Ether is profitable compared to Bitcoin and Litecoin.
     
 
 ## Installation
