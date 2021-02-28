@@ -23,7 +23,8 @@ The graph shows that Ether is having obvious high and low spikes wen considering
 <p align="center">
 <img width="500" alt="postgreSQL" src="https://user-images.githubusercontent.com/37532698/109411800-f5875900-79bd-11eb-8a16-6fd013a74dda.jpg"></p>
 The graph shows that from the past one year data investment in Ether is profitable compared to Bitcoin and Litecoin. A dollar investment in Ether have turned above 6 dollar.
-You can review the whole python notebook [here](https://github.com/mpfouziya/Cryptocurrency-Analysis-Using-Python/blob/main/Finance_Cryptocurrency_Analysis.ipynb).    
+You can review the whole python notebook [here](https://github.com/mpfouziya/Cryptocurrency-Analysis-Using-Python/blob/main/Finance_Cryptocurrency_Analysis.ipynb). 
+[here](https://github.com/mpfouziya/Cryptocurrency-Analysis-Using-Python/blob/main/Finance_Cryptocurrency_Analysis.ipynb)
 
 ## Installation
 The Code is written in Python 3.9.1 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. 
